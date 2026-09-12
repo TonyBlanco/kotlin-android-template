@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Kotlin Android Template</string>
+
+    <string name="login_title">Iniciar sesión</string>
+    <string name="login_email_hint">Correo</string>
+    <string name="login_password_hint">Contraseña</string>
+    <string name="login_button">Entrar</string>
+    <string name="login_error_empty_email">Introduce tu correo</string>
+    <string name="login_error_empty_password">Introduce tu contraseña</string>
+    <string name="login_signing_in">Iniciando sesión…</string>
+
+    <string name="home_welcome_title">¡Bienvenido!</string>
+    <string name="home_welcome_message">Has iniciado sesión correctamente.</string>
 </resources>
